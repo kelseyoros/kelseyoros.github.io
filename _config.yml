@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Kelsey Oros"
   avatar           : "profile.png"
-  bio              : "Data Analyst commited to improving educational outcomes."
+  bio              : "Data Analyst committed to improving educational outcomes."
   location         : "Chicago, IL | Available to Relocate"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : kelseyoros@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "http://linkedin/in/kelsey-oros"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "kelsey-oros"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
