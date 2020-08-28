@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+
 Welcome!
 
-For the past 5 years, I have been working in education serving as a high school math teacher.  I've spent the last 4 years at ITW David Speer Academy, a STEM-focused campus that's part of the Noble Network of Charter Schools.  I founded two roles at Speer Academy: Honors Calculus Teacher and Honors Pre-calculus Teacher in which both curriculums 
+For the past 5 years, I have been working in education serving as a high school math teacher.  I've spent the last 4 years at ITW David Speer Academy, a STEM-focused campus that's part of the Noble Network of Charter Schools.  I founded two roles at Speer Academy: Honors Calculus Teacher and Honors Pre-calculus Teacher in which both curriculums I created are being used by the current occupants of those roles today.  The Honors Pre-calculus curriculum I carefully curated through analyzing standardized test standards was bought by the network to be used network-wide by incoming teachers.
 
- my interests have evolved from setting and reaching goals in the classroom towards impacting a larger group of students by utilizing analytics to improve educational outcomes.
+Noble reminded me how powerful analytics can be and I was able to lead the network consisting of 17 campuses in SAT growth in the 2017-2018 school year.  I continuously was reaching and exceeding the student growth goals set by the school by collecting and analyzing data on Tableau, Excel, and PowerSchool daily.  I was able to inform my instruction based off the analyses conducted and experienced great success from the process.  I was asked to teach the after-school SAT course for Speer Academy Juniors and lead professional development for all Pre-calculus Teachers in the network.
 
-I earned a B.A. degree in Mathematics and a B.S. degree in Integrated Math Education from Miami University.   For the past 4 years, I have been with ITW David Speer Academy, a part of the Noble Network of Charter Schools.  Currently, I am enrolled in the Data Science and Visualization Bootcamp at Northwestern University and will graduate this August.
+My time as a high school math teacher at Speer Academy expanded my perception of what education could be and nurtured my ambition to reach out beyond the confines of the classroom to affect change on a larger scale for students and faculty alike.  My interests have evolved from setting and reaching goals in the classroom towards impacting a larger group of students by utilizing analytics to improve educational outcomes.  **However, my primary mission remains the same – provide access to exceptional and equitable education for all students.**
+
 
 My time as a high school math teacher at Speer Academy expanded my perception of what education could be and nurtured my ambition to reach out beyond the confines of the classroom to affect change on a larger scale for students and faculty alike. However, my primary goal, much like that of District 211,  remains the same–provide access to exceptional education for all students in Chicago.
 
