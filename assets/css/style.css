@@ -3,7 +3,7 @@
 }
 
 #vis-image {
-    float: center;
+    text-align: center;
     height: 100px;
     object-fit: cover
 }
