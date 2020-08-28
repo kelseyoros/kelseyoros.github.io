@@ -1,10 +1,9 @@
-.container {
+.project {
     padding: 10px
 }
 
 #vis-image {
-    float: left;
-    width:  100px;
+    float: center;
     height: 100px;
     object-fit: cover
 }
