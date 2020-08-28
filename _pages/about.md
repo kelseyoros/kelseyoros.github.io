@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+  
 Welcome!
 
 For the past 5 years, I have been working in education serving as a high school math teacher.  I've spent the last 4 years at ITW David Speer Academy, a STEM-focused campus that's part of the Noble Network of Charter Schools.  I founded two roles at Speer Academy: Honors Calculus Teacher and Honors Pre-calculus Teacher in which both curriculums I created are being used by the current occupants of those roles today.  The Honors Pre-calculus curriculum I carefully curated through analyzing standardized test standards was bought by the network to be used network-wide by incoming teachers.
